@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: deji-tools
+Version: 0.1.0
+Summary: A collection of useful Python tools created by Deji
+Author: Ayodeji Michael
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Deji Tools
+
+A simple Python utility package.
+
+## Installation
+
+pip install deji-tools
+
+## Usage
+
+```python
+from deji_tools import add
+
+print(add(10, 20))
